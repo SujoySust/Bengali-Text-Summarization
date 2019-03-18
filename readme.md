@@ -51,3 +51,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+Bengali Text Summarization Project
+
+1. Extractive English 
+2. Extractive Bengali 
+3. Abstractive English
+4. Abstractive Bengali
+
+Download the full project from google drive 
+
+Drive link : 
+https://drive.google.com/drive/folders/1ilHinWIwKzz1iixWWDvKGLyQQzUzwwWN?usp=sharing
